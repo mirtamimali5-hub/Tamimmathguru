@@ -1,0 +1,17 @@
+pubspec.yamlname: tamim_math_guru
+description: A simple math guru app by Tamim
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
